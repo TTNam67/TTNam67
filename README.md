@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**TTNam67/TTNam67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Something about me:
+- 🎮 Like playing Games, especially Pixel art Games
+![alt text](https://icons8.com/icon/ZF7FaxHJSWiX/book)
+- 🔭 
+- 🌱 Curious about every part of nature: animals, plants, disaters, science, circle of life, etc..
+- 👯 
+- 🤔 
+- 💬
+- 📫 
+- 😄 
+- ⚡ 
 -->
