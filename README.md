@@ -1,18 +1,15 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+Hi there! Here you can find some of my projects
 
 Something about me:
 - 🎮 Like playing Games, especially Pixel art Games
-![alt text](https://icons8.com/icon/ZF7FaxHJSWiX/book)
-- 🔭 
-- 🌱 Curious about every part of nature: animals, plants, disaters, science, circle of life, etc..
-- 👯 
-- 🤔 
-- 💬
-- 📫 
-- 😄 
-- ⚡ 
--->
+- 🌱 Curious about things around, especially Science
+- 📚 Love to read in many topics: Human Body and Biology, Philosophy, History,..
+- ⚡ Have many energy in music
+
+
+### About my Major
+Some of my works:
+- [RPG Game with Unity](https://github.com/TTNam67/RPG3D)
+- [A Chess Game with Java](https://github.com/TTNam67/FinalChessProject)
+
+Contacts me at: 📫ttnam957@gmail.com
