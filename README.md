@@ -2,8 +2,7 @@ Hi there! Here you can find some of my projects
 
 Something about me:
 - 🎮 Like playing Games, especially Pixel art Games
-- 🌱 Curious about things around, especially Science
-- 📚 Love to read in many topics: Human Body and Biology, Philosophy, History,..
+- 📚 Love to read in many topics
 - ⚡ Have many energy in music
 
 
